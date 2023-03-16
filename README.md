@@ -1,2 +1,3 @@
 # BNB-web3
-BNB ZerotoHero
+SImple basic ERC20 token tests
+Simple basic ERC721 NFT test and deploy on BSC testnet using hardhat
